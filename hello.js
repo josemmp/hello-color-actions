@@ -1,3 +1,3 @@
-const hello = () => "Hola desde la actividad 4 de MIT!";
+const hello = () => "Hello World";
 console.log(hello());
 exports.hello = hello;
